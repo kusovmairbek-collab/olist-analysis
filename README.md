@@ -1,2 +1,2 @@
-# olist-sql-analysis
+# olist-ecommerse-analysis
 olist data analyse
