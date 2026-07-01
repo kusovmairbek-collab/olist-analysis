@@ -41,10 +41,12 @@ The dataset includes information about:
 
 ## 📈 Key Insights
 
+-Repeat purchase rate: 3.12% → low retention
+-Avg delivery time: 12.09 days → logistics bottleneck
+-Late delivery rate: 7.87%
+-SP generates ~40%+ of revenue → high dependency risk
 - Total orders analyzed: ~99,000
 - Unique customers: ~96,000
-- Repeat purchase rate: ~3.1%
-- Average delivery time: ~12 days
 - Late deliveries: ~7.9%
 - ~90% of orders contain only one item
 - Peak sales observed in November (seasonality effect)
